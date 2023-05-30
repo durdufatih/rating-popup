@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+This project  has been completed with requirements. I was trying to implement https://www.frontendpro.dev/frontend-coding-challenges/star-rating-component-geShE1ApkqUoNCqujxOd 
+
+This project has been deployed to vercel platform . You can check my completed example from https://rating-popup-39yn6pebb-durdufatih.vercel.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
